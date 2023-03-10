@@ -3,6 +3,4 @@
 https://www.youtube.com/watch?v=tvwUvsuxfbo
 
 
-[![Watch the video](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ226ryFkZE1rHAK_XRtKqcAH2LQg23YJjVOg&usqp=CAU)](https://www.youtube.com/watch?v=tvwUvsuxfbo)
-
-
+[![Watch the video](https://logos-world.net/wp-content/uploads/2021/11/Unity-New-Logo.png)](https://www.youtube.com/watch?v=tvwUvsuxfbo)
